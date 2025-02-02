@@ -1,0 +1,10 @@
+{
+    "adresseServeur":"localhost",
+    "portServeurPlaneteTCP" : 3001,
+    "portServeurPlaneteUDP":4001,
+    "portServeurHorus":5001,
+    "portServeurHttp" : 8080,
+    "portServeurRevenantHttp":8081,
+    "portCuisto" : 8082
+    
+}
